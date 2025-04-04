@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>40781351128-am93lvm69q2i7k1ps878sfh1to47aebg.apps.googleusercontent.com</string>
+	<string>275245602132-ikclq0s16o9vk4k57fqc3t7406pmt9qh.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.40781351128-am93lvm69q2i7k1ps878sfh1to47aebg</string>
+	<string>com.googleusercontent.apps.275245602132-ikclq0s16o9vk4k57fqc3t7406pmt9qh</string>
 	<key>API_KEY</key>
-	<string>AIzaSyBHR1TaFUD6s3sixBFSO0lePZSgd60uAXk</string>
+	<string>AIzaSyBfvfPuz9OJry9ewlqVEv7dk6BF46YnXU8</string>
 	<key>GCM_SENDER_ID</key>
-	<string>40781351128</string>
+	<string>275245602132</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.bettysteger.flutterPwaWrapper</string>
+	<string>com.liveonsplit.app</string>
 	<key>PROJECT_ID</key>
-	<string>flutter-pwa-wrapper</string>
+	<string>split-moblie-app</string>
 	<key>STORAGE_BUCKET</key>
-	<string>flutter-pwa-wrapper.appspot.com</string>
+	<string>split-moblie-app.firebasestorage.app</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -29,6 +29,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:40781351128:ios:29775b1ee4850172ff2fad</string>
+	<string>1:275245602132:ios:6880ffcca377b0a37ae4c1</string>
 </dict>
 </plist>

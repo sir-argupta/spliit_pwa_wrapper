@@ -50,20 +50,20 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAdO0Rr98TJxERrgMhFwZ6Cf5bkrkiL0CA',
-    appId: '1:40781351128:android:3a0dfa82a113385bff2fad',
-    messagingSenderId: '40781351128',
-    projectId: 'flutter-pwa-wrapper',
-    storageBucket: 'flutter-pwa-wrapper.appspot.com',
+    apiKey: 'AIzaSyDxF-wzdcYdDcJVX-eklzGXcfWG1FzSPRA',
+    appId: '1:275245602132:android:abdd706048f5091d7ae4c1',
+    messagingSenderId: '275245602132',
+    projectId: 'split-moblie-app',
+    storageBucket: 'split-moblie-app.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBHR1TaFUD6s3sixBFSO0lePZSgd60uAXk',
-    appId: '1:40781351128:ios:29775b1ee4850172ff2fad',
-    messagingSenderId: '40781351128',
-    projectId: 'flutter-pwa-wrapper',
-    storageBucket: 'flutter-pwa-wrapper.appspot.com',
-    iosClientId: '40781351128-am93lvm69q2i7k1ps878sfh1to47aebg.apps.googleusercontent.com',
-    iosBundleId: 'com.bettysteger.flutterPwaWrapper',
+    apiKey: 'AIzaSyBfvfPuz9OJry9ewlqVEv7dk6BF46YnXU8',
+    appId: '1:275245602132:ios:6880ffcca377b0a37ae4c1',
+    messagingSenderId: '275245602132',
+    projectId: 'split-moblie-app',
+    storageBucket: 'split-moblie-app.firebasestorage.app',
+    iosClientId: '275245602132-ikclq0s16o9vk4k57fqc3t7406pmt9qh.apps.googleusercontent.com',
+    iosBundleId: 'com.liveonsplit.app',
   );
 }

@@ -1,4 +1,4 @@
-package com.bettysteger.flutter_pwa_wrapper
+package com.liveonsplit.app
 
 import io.flutter.embedding.android.FlutterActivity
 

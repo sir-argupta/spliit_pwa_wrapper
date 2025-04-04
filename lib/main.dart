@@ -6,8 +6,8 @@ import 'firebase_options.dart';
 import 'package:flutter_pwa_wrapper/push_notifications_manager.dart';
 
 class SETTINGS {
-  static const title = 'Flutter PWA Wrapper';
-  static const url = 'https://bettysteger.com/flutter_pwa_wrapper/demo/'; // 'http://localhost:8887/'; // test dev
+  static const title = 'SPLiT - Share Expenses with Everyone';
+  static const url = 'https://preview.liveonsplit.com/'; // 'http://localhost:8887/'; // test dev
   static const cookieDomain = null; // only necessary if you are using a subdomain and want it on the top-level domain
 
   static const shouldAskForPushPermission = true;
